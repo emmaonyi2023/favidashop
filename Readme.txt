@@ -1,1 +1,1 @@
-Just created develop branch and set develop branch as default branch.
+Just created setup branch after creating develop branch and setting develop branch as default branch.
