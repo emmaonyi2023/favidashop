@@ -1,0 +1,2 @@
+# favidashop
+Gomycode Terminal Project
