@@ -367,7 +367,7 @@ function Checkout() {
 							</div>
 							<div className="single-widget payement">
 								<div className="content">
-									<img src="images/payment-method.png" alt="#" />
+									<img src="./src/assets/images/payment-method.png" alt="#" />
 								</div>
 							</div>
 							<div className="single-widget get-button">

@@ -19,7 +19,7 @@ function Footer() {
                         </li>
                         <li>
                             <i className="fa fa-envelope fa-fw"></i>
-                            <a className="text-decoration-none" href="mailto:info@company.com">info@company.com</a>
+                            <a className="text-decoration-none" href="mailto:info@company.com">info@favidashop.biz</a>
                         </li>
                     </ul>
                 </div>
@@ -96,4 +96,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default Footer;

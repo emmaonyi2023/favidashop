@@ -17,7 +17,7 @@ function Featured() {
                 <div className="col-12 col-md-4 mb-4">
                     <div className="card h-100">
                         <a href="shop-single.html">
-                            <img src="./assets/img/feature_prod_01.jpg" className="card-img-top" alt="..." />
+                            <img src="./src/assets/img/feature_prod_01.jpg" className="card-img-top" alt="..." />
                         </a>
                         <div className="card-body">
                             <ul className="list-unstyled d-flex justify-content-between">
@@ -41,7 +41,7 @@ function Featured() {
                 <div className="col-12 col-md-4 mb-4">
                     <div className="card h-100">
                         <a href="shop-single.html">
-                            <img src="./assets/img/feature_prod_02.jpg" className="card-img-top" alt="..." />
+                            <img src="./src/assets/img/feature_prod_02.jpg" className="card-img-top" alt="..." />
                         </a>
                         <div className="card-body">
                             <ul className="list-unstyled d-flex justify-content-between">
@@ -65,7 +65,7 @@ function Featured() {
                 <div className="col-12 col-md-4 mb-4">
                     <div className="card h-100">
                         <a href="shop-single.html">
-                            <img src="./assets/img/feature_prod_03.jpg" className="card-img-top" alt="..." />
+                            <img src="./src/assets/img/feature_prod_03.jpg" className="card-img-top" alt="..." />
                         </a>
                         <div className="card-body">
                             <ul className="list-unstyled d-flex justify-content-between">
